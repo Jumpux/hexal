@@ -215,6 +215,10 @@ a, a:hover {
 .social-networks a {
     width: 24px;
     height: 24px;
+    transition: all 1s;
+}
+.social-networks a:hover {
+    margin-top: -5px;
 }
 
 #contact {
@@ -303,6 +307,10 @@ input::-webkit-input-placeholder {
     float: right;
     margin-top: 12px;
     letter-spacing: 0.1px;
+    transition: all 0.5s;
+}
+#cform-submit:hover {
+    background-color: #555;
 }
 .offlinecon {
     padding-top: 36px;
