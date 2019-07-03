@@ -312,14 +312,25 @@ input::-webkit-input-placeholder {
 #cform-submit:hover {
     background-color: #555;
 }
+.fa-map-marker-alt {
+    padding-left: 1px;
+}
+.offlinecon i {
+    color: #2eb398;
+}
 .offlinecon {
     padding-top: 36px;
-    padding-left: 23px;
     font-family: 'Lato', sans-serif;
     font-weight: 700;
     font-size: 12px;
     line-height: 21px;
     color: #bebebe;
+}
+.location {
+    padding-left: 12px;
+}
+.phone, .mail {
+    padding-left: 9px;
 }
 footer {
     background: #222222;
