@@ -62,7 +62,7 @@ a, a:hover {
     border-width: 26px 45px 0 45px;
     border-color: #323232 transparent transparent transparent;
     position: absolute;
-    bottom: -15px;
+    bottom: -14px;
     left: 0;
     transition: all 0.5s;
 }
